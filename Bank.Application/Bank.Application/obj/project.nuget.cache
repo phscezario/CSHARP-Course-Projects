@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rprPKqqliAGRjcHldHnhXMRnU05jz9PqynU6M0AlHZzyPE6UFv56GpWnqUzudcGCXG31EaqjhY+LuywR5+j1+A==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos\\Estudos\\C# Projectos\\Bank.Application\\Bank.Application\\Bank.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ph_si\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

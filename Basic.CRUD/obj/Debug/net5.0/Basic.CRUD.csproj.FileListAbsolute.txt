@@ -1,0 +1,32 @@
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.csprojAssemblyReference.cache
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.AssemblyInfoInputs.cache
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.AssemblyInfo.cs
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.csproj.CoreCompileInputs.cache
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.exe
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.deps.json
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.runtimeconfig.json
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.runtimeconfig.dev.json
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.dll
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\bin\Debug\net5.0\ref\Basic.CRUD.dll
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.pdb
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.dll
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\ref\Basic.CRUD.dll
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.pdb
+F:\Projetos\workspace\csharplearn\Projetos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.genruntimeconfig.cache
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.exe
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.deps.json
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.runtimeconfig.json
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.runtimeconfig.dev.json
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.dll
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\bin\Debug\net5.0\ref\Basic.CRUD.dll
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\bin\Debug\net5.0\Basic.CRUD.pdb
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.csprojAssemblyReference.cache
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.AssemblyInfoInputs.cache
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.AssemblyInfo.cs
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.csproj.CoreCompileInputs.cache
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.dll
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\ref\Basic.CRUD.dll
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.pdb
+F:\Projetos\Estudos\C# Projectos\Basic.CRUD\obj\Debug\net5.0\Basic.CRUD.genruntimeconfig.cache

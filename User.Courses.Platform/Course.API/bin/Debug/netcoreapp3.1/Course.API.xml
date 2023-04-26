@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Course.API</name>
+    </assembly>
+    <members>
+        <member name="M:Course.API.Controllers.CourseController.Post(Course.API.Models.Courses.CourseViewModelInput)">
+            <summary>
+            This service allows you to create courses.
+            </summary>
+            <param name="courseViewModelInput"></param>
+            <returns>Return code 201 and user course data</returns>
+        </member>
+        <member name="M:Course.API.Controllers.CourseController.Get">
+            <summary>
+            This service allows you to get all active user cuorses.
+            </summary>
+            <returns>Return status ok and user course data</returns>
+        </member>
+        <member name="M:Course.API.Controllers.UserController.Login(Course.API.Models.Users.LoginViewModelInput)">
+            <summary>
+            This service allows you to authenticate a registered and active user.
+            </summary>
+            <param name="loginViewModelInput">Login view model</param>
+            <returns>Return status ok, user data and token if sucessful</returns>
+        </member>
+        <member name="M:Course.API.Controllers.UserController.Register(Course.API.Models.Users.RegisterViewModelInput)">
+            <summary>
+            TThis service allows you to register an unregistered user. 
+            </summary>
+            <param name="register">View model of the login register</param>
+        </member>
+    </members>
+</doc>

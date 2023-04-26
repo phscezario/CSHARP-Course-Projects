@@ -1,0 +1,13 @@
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\bin\Debug\netcoreapp3.1\Bank.Application.exe
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\bin\Debug\netcoreapp3.1\Bank.Application.deps.json
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\bin\Debug\netcoreapp3.1\Bank.Application.runtimeconfig.json
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\bin\Debug\netcoreapp3.1\Bank.Application.runtimeconfig.dev.json
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\bin\Debug\netcoreapp3.1\Bank.Application.dll
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\bin\Debug\netcoreapp3.1\Bank.Application.pdb
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\obj\Debug\netcoreapp3.1\Bank.Application.csprojAssemblyReference.cache
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\obj\Debug\netcoreapp3.1\Bank.Application.AssemblyInfoInputs.cache
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\obj\Debug\netcoreapp3.1\Bank.Application.AssemblyInfo.cs
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\obj\Debug\netcoreapp3.1\Bank.Application.csproj.CoreCompileInputs.cache
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\obj\Debug\netcoreapp3.1\Bank.Application.dll
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\obj\Debug\netcoreapp3.1\Bank.Application.pdb
+F:\Projetos\Estudos\C# Projectos\Bank.Application\Bank.Application\obj\Debug\netcoreapp3.1\Bank.Application.genruntimeconfig.cache
