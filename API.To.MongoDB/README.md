@@ -2,4 +2,4 @@
 
 Learning how to integrate an API to the database NoSQL - MongoDB.
 
-### You need to add MongoDB conection string in "appsettings.json"
+### You need to add MongoDB conection string in "appsettings.json" or configure environment variable "mongoConnectionURI"
